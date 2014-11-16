@@ -623,7 +623,7 @@ Select a single region and then perform this command again.</source>
     <message>
         <source>Total</source>
         <comment>TX_SUBTOTAL_SUM</comment>
-        <translation>Total</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Grand Total</source>
@@ -731,7 +731,7 @@ Please specify the right files.</source>
     <message>
         <source>8.1</source>
         <comment>TX_APP_VERSION</comment>
-        <translation>8.1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>[%s]%s:
@@ -1212,7 +1212,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Name</source>
         <comment>TX_SOLVER_NAME</comment>
-        <translation>Nome</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Original Value</source>
@@ -1908,12 +1908,12 @@ Continue without Undo?</source>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation>Xeneral</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_02</comment>
-        <translation>0.00</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>#,##0</source>
@@ -1958,27 +1958,27 @@ Continue without Undo?</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation>m/d/aaaa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
         <comment>TX_NUMFMTApi_BuildIn_15</comment>
-        <translation>d-mmm-aa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>d-mmm</source>
         <comment>TX_NUMFMTApi_BuildIn_16</comment>
-        <translation>d-mmm</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation type="unfinished">h:mm</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation>h:mm:ss</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
@@ -2008,22 +2008,22 @@ Continue without Undo?</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation>m/d/aaaa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation>m/d/aaaa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished">h:mm:ss</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation>h:mm:ss</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
@@ -2033,12 +2033,12 @@ Continue without Undo?</source>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation>h:mm:ss</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation>h:mm:ss</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>#,##0_);(#,##0)</source>
@@ -2083,7 +2083,7 @@ Continue without Undo?</source>
     <message>
         <source>mm:ss.0</source>
         <comment>TX_NUMFMTApi_BuildIn_45</comment>
-        <translation>mm:ss.0</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>##0.0E+0</source>
@@ -8521,7 +8521,7 @@ Continue ?</source>
     <message>
         <source>Year</source>
         <comment>TX_ParaInfo_087</comment>
-        <translation>Ano</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Width</source>
@@ -14251,7 +14251,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Date</source>
         <comment>et_sDate</comment>
-        <translation>Data</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
@@ -14626,7 +14626,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>General</source>
         <comment>et_sGeneral</comment>
-        <translation type="unfinished">Xeneral</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>greater than or equal to</source>
